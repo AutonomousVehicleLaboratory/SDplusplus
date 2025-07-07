@@ -1,5 +1,5 @@
 # SDplusplus
-This is the official implementation of IV 2025 paper SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs
+This is the official implementation of IEEE IV 2025 paper SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs
 
 ### [paper](https://arxiv.org/pdf/2502.02773v1)
 
